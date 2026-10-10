@@ -1,0 +1,499 @@
+#
+msgid ""
+msgstr ""
+"Language: ru_RU\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. odoo-python
+#, python-format
+msgid "%(content)s (%(model_description)s created on %(create_date)s)"
+msgstr "%(content)s (%(model_description)s создано на %(create_date)s)"
+
+#: model:ir.model.fields,field_description:utm.field_utm_medium__active
+msgid "Active"
+msgstr "Активный"
+
+#: model:ir.model.fields,help:utm.field_utm_campaign__is_auto_campaign
+msgid "Allows us to filter relevant Campaigns"
+msgstr "Позволяет нам фильтровать соответствующие кампании"
+
+#. odoo-javascript
+msgid "Approval-based Flow"
+msgstr "Поток, основанный на утверждении"
+
+#. odoo-javascript
+msgid "Approved"
+msgstr "Одобрено"
+
+#: model_terms:ir.ui.view,arch_db:utm.utm_campaign_view_kanban
+msgid "Archive"
+msgstr "Архив"
+
+#: model_terms:ir.ui.view,arch_db:utm.view_utm_campaign_view_search
+msgid "Archived"
+msgstr "Архивировано"
+
+#: model_terms:ir.actions.act_window,help:utm.action_view_utm_tag
+msgid "Assign tags to your campaigns to organize, filter and track them."
+msgstr ""
+"Присваивайте теги своим кампаниям, чтобы упорядочивать, фильтровать и "
+"отслеживать их."
+
+#. odoo-javascript
+msgid "Audience-driven Flow"
+msgstr "Поток, ориентированный на аудиторию"
+
+#: model:ir.model.fields,field_description:utm.field_utm_campaign__is_auto_campaign
+msgid "Automatically Generated Campaign"
+msgstr "Автоматически созданная кампания"
+
+#: model:ir.model.fields,field_description:utm.field_utm_mixin__campaign_id
+msgid "Campaign"
+msgstr "Кампания"
+
+#: model:ir.model.fields,field_description:utm.field_utm_campaign__name
+msgid "Campaign Identifier"
+msgstr "Идентификатор кампании"
+
+#: model_terms:ir.ui.view,arch_db:utm.utm_campaign_view_form_quick_create
+msgid "Campaign Name"
+msgstr "Название кампании"
+
+#: model:ir.model,name:utm.model_utm_stage
+msgid "Campaign Stage"
+msgstr "Этап кампании"
+
+#: model_terms:ir.ui.view,arch_db:utm.utm_tag_view_tree
+msgid "Campaign Tags"
+msgstr "Теги Кампании"
+
+#: model_terms:ir.ui.view,arch_db:utm.view_utm_campaign_view_search
+msgid "Campaigns"
+msgstr "Кампании"
+
+#: model_terms:ir.actions.act_window,help:utm.utm_campaign_action
+msgid ""
+"Campaigns are used to centralize your marketing efforts and track their "
+"results."
+msgstr ""
+"Кампании используются для централизации маркетинговых усилий и отслеживания "
+"их результатов."
+
+#: model_terms:ir.ui.view,arch_db:utm.view_utm_campaign_view_search
+msgid "Campaigns that are assigned to me"
+msgstr "Кампании, которые закреплены за мной"
+
+#: model:utm.campaign,title:utm.utm_campaign_christmas_special
+msgid "Christmas Special"
+msgstr "Рождественский спецвыпуск"
+
+#. odoo-javascript
+msgid "Collect ideas, design creative content and publish it once reviewed."
+msgstr ""
+"Сбор идей, разработка креативного контента и его публикация после проверки."
+
+#: model:ir.model.fields,field_description:utm.field_utm_tag__color
+msgid "Color Index"
+msgstr "Цветовой индекс"
+
+#. odoo-javascript
+msgid "Copywriting"
+msgstr "Копирайтинг"
+
+#: model_terms:ir.actions.act_window,help:utm.utm_medium_action
+msgid "Create a Medium"
+msgstr "Создайте носитель"
+
+#: model_terms:ir.actions.act_window,help:utm.action_view_utm_tag
+msgid "Create a Tag"
+msgstr "Создать метку"
+
+#: model_terms:ir.actions.act_window,help:utm.utm_campaign_action
+msgid "Create a campaign"
+msgstr "Создайте кампанию"
+
+#: model_terms:ir.actions.act_window,help:utm.action_view_utm_stage
+msgid "Create a stage for your campaigns"
+msgstr "Создайте этап для своих кампаний"
+
+#: model:ir.model.fields,field_description:utm.field_utm_tag__create_uid
+msgid "Created by"
+msgstr "Создано"
+
+#: model:ir.model.fields,field_description:utm.field_utm_tag__create_date
+msgid "Created on"
+msgstr "Создано"
+
+#. odoo-javascript
+msgid "Creative Flow"
+msgstr "Творческий поток"
+
+#: model_terms:ir.ui.view,arch_db:utm.utm_campaign_view_kanban
+msgid "Delete"
+msgstr "Удалить"
+
+#. odoo-javascript
+msgid "Deploy"
+msgstr "Развертывание"
+
+#. odoo-javascript
+msgid "Deployed"
+msgstr "Развернут"
+
+#. odoo-javascript
+msgid "Design"
+msgstr "Дизайн"
+
+#: model:ir.model.fields,field_description:utm.field_utm_tag__display_name
+msgid "Display Name"
+msgstr "Отображаемое имя"
+
+#. odoo-javascript
+msgid "Done"
+msgstr "Готово"
+
+#: model_terms:ir.ui.view,arch_db:utm.utm_campaign_view_kanban
+msgid "Edit"
+msgstr "Редактировать"
+
+#: model:utm.campaign,title:utm.utm_campaign_email_campaign_products
+msgid "Email Campaign - Products"
+msgstr "Кампания электронной почты - Продукты"
+
+#: model:utm.campaign,title:utm.utm_campaign_email_campaign_services
+msgid "Email Campaign - Services"
+msgstr "Кампания электронной почты - Услуги"
+
+#. odoo-javascript
+msgid "Event-driven Flow"
+msgstr "Поток, управляемый событиями"
+
+#. odoo-javascript
+msgid "Gather Data"
+msgstr "Соберите данные"
+
+#. odoo-javascript
+msgid ""
+"Gather data, build a recipient list and write content based on your "
+"Marketing target."
+msgstr ""
+"Соберите данные, составьте список получателей и напишите контент, "
+"ориентируясь на целевую аудиторию."
+
+#: model_terms:ir.ui.view,arch_db:utm.view_utm_campaign_view_search
+msgid "Group By"
+msgstr "Группировать по"
+
+#: model:ir.model,name:utm.model_ir_http
+msgid "HTTP Routing"
+msgstr "Маршрутизация HTTP"
+
+#: model:ir.model.fields,field_description:utm.field_utm_tag__id
+msgid "ID"
+msgstr "ID"
+
+#. odoo-javascript
+msgid "Ideas"
+msgstr "Идеи"
+
+#: model:ir.model.fields,field_description:utm.field_utm_tag__write_uid
+msgid "Last Updated by"
+msgstr "Последнее обновление"
+
+#: model:ir.model.fields,field_description:utm.field_utm_tag__write_date
+msgid "Last Updated on"
+msgstr "Последнее обновление"
+
+#. odoo-javascript
+msgid "Later"
+msgstr "Позже"
+
+#: model:ir.ui.menu,name:utm.menu_link_tracker_root
+msgid "Link Tracker"
+msgstr "Трекер ссылок"
+
+#. odoo-javascript
+msgid "List-Building"
+msgstr "Составление списков"
+
+#: model:utm.tag,name:utm.utm_tag_1
+msgid "Marketing"
+msgstr "Маркетинг"
+
+#: model_terms:ir.ui.view,arch_db:utm.utm_medium_view_form
+msgid "Medium"
+msgstr "Средний"
+
+#: model:ir.model.fields,field_description:utm.field_utm_medium__name
+msgid "Medium Name"
+msgstr "Среднее имя"
+
+#: model_terms:ir.ui.view,arch_db:utm.utm_medium_view_tree
+msgid "Mediums"
+msgstr "Средства"
+
+#: model_terms:ir.ui.view,arch_db:utm.view_utm_campaign_view_search
+msgid "My Campaigns"
+msgstr "Мои компании"
+
+#: model_terms:ir.ui.view,arch_db:utm.utm_campaign_view_tree
+msgid "Name"
+msgstr "Имя"
+
+#: model:utm.stage,name:utm.default_utm_stage
+msgid "New"
+msgstr "Новый"
+
+#: model_terms:ir.actions.act_window,help:utm.utm_source_action
+msgid "No Sources yet!"
+msgstr "Источников пока нет!"
+
+#. odoo-javascript
+msgid "Pre-Launch"
+msgstr "Перед запуском"
+
+#. odoo-javascript
+msgid "Prepare Campaigns and get them approved before making them go live."
+msgstr "Подготовка кампаний и их утверждение перед запуском."
+
+#. odoo-javascript
+msgid ""
+"Prepare your Campaign, test it with part of your audience and deploy it "
+"fully afterwards."
+msgstr ""
+"Подготовьте кампанию, протестируйте ее на части аудитории и после этого "
+"разверните ее в полную силу."
+
+#. odoo-javascript
+msgid "Report"
+msgstr "Отчет"
+
+#: model_terms:ir.ui.view,arch_db:utm.view_utm_campaign_view_search
+msgid "Responsible"
+msgstr "Ответственный"
+
+#: model_terms:ir.ui.view,arch_db:utm.utm_campaign_view_kanban
+msgid "Restore"
+msgstr "Восстановить"
+
+#. odoo-javascript
+msgid "Review"
+msgstr "Отзыв"
+
+#. odoo-javascript
+msgid "Running"
+msgstr "Работает"
+
+#: model:utm.campaign,title:utm.utm_campaign_fall_drive
+msgid "Sale"
+msgstr "Продажа"
+
+#: model:utm.stage,name:utm.campaign_stage_1
+msgid "Schedule"
+msgstr "Расписание"
+
+#: model_terms:ir.ui.view,arch_db:utm.utm_medium_view_search
+msgid "Search UTM Medium"
+msgstr "Поиск UTM Medium"
+
+#. odoo-javascript
+msgid "Send"
+msgstr "Отправить"
+
+#. odoo-javascript
+msgid "Sent"
+msgstr "Отправлено"
+
+#: model:ir.model.fields,field_description:utm.field_utm_stage__sequence
+msgid "Sequence"
+msgstr "Последовательность"
+
+#. odoo-javascript
+msgid "Soft-Launch"
+msgstr "Мягкий запуск"
+
+#. odoo-javascript
+msgid "Soft-Launch Flow"
+msgstr "Поток мягкого запуска"
+
+#: model_terms:ir.ui.view,arch_db:utm.utm_source_view_tree
+msgid "Source"
+msgstr "Источник"
+
+#: model:ir.model.fields,field_description:utm.field_utm_source__name
+msgid "Source Name"
+msgstr "Имя источника"
+
+#: model:ir.ui.menu,name:utm.menu_utm_source
+msgid "Sources"
+msgstr "Источники"
+
+#: model_terms:ir.ui.view,arch_db:utm.view_utm_campaign_view_search
+msgid "Stage"
+msgstr "Этап"
+
+#: model_terms:ir.ui.view,arch_db:utm.utm_stage_view_tree
+msgid "Stages"
+msgstr "Туры"
+
+#: model_terms:ir.actions.act_window,help:utm.action_view_utm_stage
+msgid ""
+"Stages allow you to organize your workflow  (e.g. plan, design, in progress,"
+" done, …)."
+msgstr ""
+"Этапы позволяют организовать рабочий процесс (например, план, проект, в "
+"процессе, готово, ...)."
+
+#: model:ir.model.fields,help:utm.field_utm_tag__color
+msgid ""
+"Tag color. No color means no display in kanban to distinguish internal tags "
+"from public categorization tags."
+msgstr ""
+"Цвет тега. Отсутствие цвета означает отсутствие отображения в канбане, чтобы"
+" отличить внутренние теги от тегов публичной категоризации."
+
+#: model:ir.model.constraint,message:utm.constraint_utm_tag_name_uniq
+msgid "Tag name already exists!"
+msgstr "Название тега уже существует!"
+
+#: model_terms:ir.ui.view,arch_db:utm.view_utm_campaign_view_search
+msgid "Tags"
+msgstr "Теги"
+
+#. odoo-python
+#, python-format
+msgid ""
+"The UTM medium '%s' cannot be deleted as it is used in some main functional "
+"flows, such as the recruitment and the mass mailing."
+msgstr ""
+"UTM-средство '%s' не может быть удалено, поскольку оно используется в "
+"некоторых основных функциональных потоках, таких как рекрутинг и массовая "
+"рассылка."
+
+#: model:ir.model.constraint,message:utm.constraint_utm_source_unique_name
+msgid "The name must be unique"
+msgstr "Имя должно быть уникальным"
+
+#. odoo-javascript
+msgid "This Month"
+msgstr "Этот месяц"
+
+#. odoo-javascript
+msgid "This Week"
+msgstr "На этой неделе"
+
+#: model:ir.model.fields,help:utm.field_utm_mixin__campaign_id
+msgid ""
+"This is a name that helps you keep track of your different campaign efforts,"
+" e.g. Fall_Drive, Christmas_Special"
+msgstr ""
+"Это имя помогает вам отслеживать различные усилия кампании, например, "
+"Снижение_Цен, Рождество_Специальный"
+
+#: model:ir.model.fields,help:utm.field_utm_mixin__medium_id
+msgid "This is the method of delivery, e.g. Postcard, Email, or Banner Ad"
+msgstr ""
+"Это способ доставки, например, открытка, электронная почта или баннерная "
+"реклама."
+
+#: model:ir.model.fields,help:utm.field_utm_mixin__source_id
+msgid ""
+"This is the source of the link, e.g. Search Engine, another domain, or name "
+"of email list"
+msgstr ""
+"Это источник ссылки, например, поисковая система, другой домен или название "
+"списка адресов электронной почты."
+
+#. odoo-javascript
+msgid "To be Approved"
+msgstr "Будет утверждено"
+
+#. odoo-javascript
+msgid ""
+"Track incoming events (e.g. Christmas, Black Friday, ...) and publish timely"
+" content."
+msgstr ""
+"Отслеживайте наступающие события (например, Рождество, Черная пятница, ...) "
+"и своевременно публикуйте контент."
+
+#: model_terms:ir.ui.view,arch_db:utm.utm_campaign_view_form
+msgid "UTM Campaign"
+msgstr "Кампания UTM"
+
+#: model_terms:ir.ui.view,arch_db:utm.utm_campaign_view_tree
+msgid "UTM Campaigns"
+msgstr "Кампании UTM"
+
+#: model:ir.model,name:utm.model_utm_medium
+msgid "UTM Medium"
+msgstr "UTM Medium"
+
+#: model_terms:ir.actions.act_window,help:utm.utm_medium_action
+msgid ""
+"UTM Mediums track the mean that was used to attract traffic (e.g. "
+"\"Website\", \"Twitter\", ...)."
+msgstr ""
+"UTM Mediums отслеживают средство, которое было использовано для привлечения "
+"трафика (например, \"Веб-сайт\", \"Twitter\", ...)."
+
+#: model:ir.model,name:utm.model_utm_mixin
+msgid "UTM Mixin"
+msgstr "Миксин UTM"
+
+#: model:ir.model,name:utm.model_utm_source
+msgid "UTM Source"
+msgstr "Источник UTM"
+
+#: model:ir.model,name:utm.model_utm_source_mixin
+msgid "UTM Source Mixin"
+msgstr "Миксин источника UTM"
+
+#: model_terms:ir.actions.act_window,help:utm.utm_source_action
+msgid ""
+"UTM Sources track where traffic comes from  (e.g. \"May Newsletter\", \"\", "
+"...)."
+msgstr ""
+"Источники UTM отслеживают, откуда поступает трафик (например, \"May "
+"Newsletter\", \"\", ...)."
+
+#: model:ir.actions.act_window,name:utm.action_view_utm_stage
+msgid "UTM Stages"
+msgstr "Этапы UTM"
+
+#: model:ir.model,name:utm.model_utm_tag
+msgid "UTM Tag"
+msgstr "UTM-метка"
+
+#: model:ir.ui.menu,name:utm.marketing_utm
+msgid "UTMs"
+msgstr "UTMs"
+
+#. odoo-javascript
+msgid "Use This For My Campaigns"
+msgstr "Используйте это для моих кампаний"
+
+#. odoo-python
+#, python-format
+msgid ""
+"You cannot update multiple records with the same name. The name should be "
+"unique!"
+msgstr ""
+"Вы не можете обновить несколько записей с одинаковым именем. Имя должно быть"
+" уникальным!"
+
+#: model_terms:ir.ui.view,arch_db:utm.utm_stage_view_form
+msgid "e.g. \"Brainstorming\""
+msgstr "например, \"Мозговой штурм\""
+
+#: model_terms:ir.ui.view,arch_db:utm.utm_source_view_tree
+msgid "e.g. \"Christmas Mailing\""
+msgstr "например, \"Рождественская рассылка\""
+
+#: model_terms:ir.ui.view,arch_db:utm.utm_medium_view_tree
+msgid "e.g. \"Email\""
+msgstr "например, \"Электронная почта\""
+
+#: model_terms:ir.ui.view,arch_db:utm.utm_campaign_view_form_quick_create
+msgid "e.g. Black Friday"
+msgstr "например, \"Черная пятница"

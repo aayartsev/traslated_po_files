@@ -1,0 +1,115 @@
+#
+msgid ""
+msgstr ""
+"Language: ru_RU\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: model_terms:ir.ui.view,arch_db:web_unsplash.res_config_settings_view_form
+msgid "<i class=\"oi oi-arrow-right\"/> Generate an Access Key"
+msgstr "<i class=\"oi oi-arrow-right\"/> Сгенерируйте ключ доступа"
+
+#: model:ir.model.fields,field_description:web_unsplash.field_res_config_settings__unsplash_access_key
+msgid "Access Key"
+msgstr "Ключ доступа"
+
+#. odoo-javascript
+msgid "Application ID"
+msgstr "ID приложения"
+
+#. odoo-javascript
+msgid "Apply"
+msgstr "Применить"
+
+#: model:ir.model,name:web_unsplash.model_res_config_settings
+msgid "Config Settings"
+msgstr "Параметры конфигурации"
+
+#. odoo-python
+#, python-format
+msgid "ERROR: Unknown Unsplash URL!"
+msgstr "ОШИБКА: Неизвестная ссылка Unsplash!"
+
+#. odoo-python
+#, python-format
+msgid "ERROR: Unknown Unsplash notify URL!"
+msgstr "ОШИБКА: Неизвестная ссылка уведомления Unsplash!"
+
+#. odoo-javascript
+msgid "Get an Access key"
+msgstr "Получить ключ доступа"
+
+#. odoo-javascript
+msgid "Paste your access key here"
+msgstr "Вставьте здесь ваш ключ доступа "
+
+#. odoo-javascript
+msgid "Paste your application ID here"
+msgstr "Вставьте здесь ваш идентификатор приложения"
+
+#. odoo-javascript
+msgid "Photos (via Unsplash)"
+msgstr "Фотографии (через Unsplash)"
+
+#. odoo-javascript
+msgid "Please check your Unsplash access key and application ID."
+msgstr ""
+"Пожалуйста, проверьте свой ключ доступа Unsplash и идентификатор приложения."
+
+#. odoo-javascript
+msgid "Please check your internet connection or contact administrator."
+msgstr ""
+"Пожалуйста, проверьте подключение к Интернету или свяжитесь с "
+"администратором."
+
+#: model:ir.model,name:web_unsplash.model_ir_qweb_field_image
+msgid "Qweb Field Image"
+msgstr "Поле изображения Qweb"
+
+#. odoo-javascript
+msgid "Search is temporarily unavailable"
+msgstr "Поиск временно недоступен"
+
+#. odoo-javascript
+msgid "Setup Unsplash to access royalty free photos."
+msgstr "Установите Unsplash, чтобы получить доступ к бесплатным фотографиям."
+
+#. odoo-javascript
+msgid "Something went wrong"
+msgstr "Что-то пошло не так"
+
+#. odoo-javascript
+msgid ""
+"The max number of searches is exceeded. Please retry in an hour or extend to"
+" a better account."
+msgstr ""
+"Превышено максимальное число поисков. Пожалуйста, повторите через час или "
+"приобретите улучшенный аккаунт."
+
+#. odoo-javascript
+msgid "Unauthorized Key"
+msgstr "Неавторизованный ключ"
+
+#. odoo-javascript
+msgid "Uploading %s '%s' images."
+msgstr "Загрузка %s '%s' изображений."
+
+#. odoo-javascript
+msgid "Uploading '%s' image."
+msgstr "Загрузка изображения '%s'."
+
+#: model:ir.model,name:web_unsplash.model_res_users
+msgid "User"
+msgstr "Пользователь"
+
+#. odoo-javascript
+msgid "and paste"
+msgstr "и вставить"
+
+#. odoo-javascript
+msgid "and paste it here:"
+msgstr "и вставьте его сюда:"
+
+#. odoo-javascript
+msgid "here:"
+msgstr "здесь:"

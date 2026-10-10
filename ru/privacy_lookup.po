@@ -1,0 +1,222 @@
+#
+msgid ""
+msgstr ""
+"Language: ru_RU\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: model:ir.model.fields,field_description:privacy_lookup.field_privacy_log__additional_note
+msgid "Additional Note"
+msgstr "Дополнительное примечание"
+
+#: model:ir.model.fields,field_description:privacy_lookup.field_privacy_log__anonymized_email
+msgid "Anonymized Email"
+msgstr "Анонимная электронная почта"
+
+#: model:ir.model.fields,field_description:privacy_lookup.field_privacy_log__anonymized_name
+msgid "Anonymized Name"
+msgstr "Анонимное имя"
+
+#: model:ir.actions.server,name:privacy_lookup.ir_actions_server_archive_all
+msgid "Archive Selection"
+msgstr "Архивная подборка"
+
+#. odoo-python
+#, python-format
+msgid "Archived"
+msgstr "Архивировано"
+
+#: model_terms:ir.ui.view,arch_db:privacy_lookup.privacy_lookup_wizard_line_view_search
+msgid "Can be archived"
+msgstr "Можно архивировать"
+
+#: model:ir.model,name:privacy_lookup.model_res_partner
+msgid "Contact"
+msgstr "Контакты"
+
+#: model:ir.model.fields,field_description:privacy_lookup.field_privacy_lookup_wizard_line__create_uid
+msgid "Created by"
+msgstr "Создано"
+
+#: model:ir.model.fields,field_description:privacy_lookup.field_privacy_lookup_wizard_line__create_date
+msgid "Created on"
+msgstr "Создано"
+
+#: model:ir.model.fields,field_description:privacy_lookup.field_privacy_log__date
+msgid "Date"
+msgstr "Дата"
+
+#: model_terms:ir.ui.view,arch_db:privacy_lookup.privacy_lookup_wizard_line_view_tree
+msgid "Delete"
+msgstr "Удалить"
+
+#: model:ir.actions.server,name:privacy_lookup.ir_actions_server_unlink_all
+msgid "Delete Selection"
+msgstr "Удалить выделение"
+
+#. odoo-python
+#, python-format
+msgid "Deleted"
+msgstr "Удалено"
+
+#: model:ir.model.fields,field_description:privacy_lookup.field_privacy_lookup_wizard_line__display_name
+msgid "Display Name"
+msgstr "Отображаемое имя"
+
+#: model:ir.model.fields,field_description:privacy_lookup.field_privacy_lookup_wizard_line__res_model
+msgid "Document Model"
+msgstr "Модель документа"
+
+#: model:ir.model.fields,field_description:privacy_lookup.field_privacy_lookup_wizard__email
+msgid "Email"
+msgstr "Email"
+
+#: model:ir.model.fields,field_description:privacy_lookup.field_privacy_lookup_wizard_line__execution_details
+msgid "Execution Details"
+msgstr "Детали исполнения"
+
+#: model:ir.model.fields,field_description:privacy_lookup.field_privacy_log__records_description
+msgid "Found Records"
+msgstr "Найденные записи"
+
+#: model_terms:ir.ui.view,arch_db:privacy_lookup.privacy_lookup_wizard_line_view_search
+msgid "Group By"
+msgstr "Группировать по"
+
+#: model:ir.model.fields,field_description:privacy_lookup.field_privacy_log__user_id
+msgid "Handled By"
+msgstr "Обработано"
+
+#: model:ir.model.fields,field_description:privacy_lookup.field_privacy_lookup_wizard_line__has_active
+msgid "Has Active"
+msgstr "Имеет активную"
+
+#: model_terms:ir.ui.view,arch_db:privacy_lookup.privacy_lookup_wizard_line_view_tree
+msgid "ID"
+msgstr "ID"
+
+#: model:ir.model.fields,field_description:privacy_lookup.field_privacy_lookup_wizard_line__is_active
+msgid "Is Active"
+msgstr "Активный"
+
+#: model:ir.model.fields,field_description:privacy_lookup.field_privacy_lookup_wizard_line__is_unlinked
+msgid "Is Unlinked"
+msgstr "Не связан"
+
+#: model:ir.model.fields,field_description:privacy_lookup.field_privacy_lookup_wizard_line__write_uid
+msgid "Last Updated by"
+msgstr "Последнее обновление"
+
+#: model:ir.model.fields,field_description:privacy_lookup.field_privacy_lookup_wizard_line__write_date
+msgid "Last Updated on"
+msgstr "Последнее обновление"
+
+#: model:ir.model.fields,field_description:privacy_lookup.field_privacy_lookup_wizard__line_ids
+msgid "Line"
+msgstr "Линия"
+
+#: model:ir.model.fields,field_description:privacy_lookup.field_privacy_lookup_wizard__line_count
+msgid "Line Count"
+msgstr "Количество строк"
+
+#: model:ir.model.fields,field_description:privacy_lookup.field_privacy_lookup_wizard__log_id
+msgid "Log"
+msgstr "Лог"
+
+#: model_terms:ir.ui.view,arch_db:privacy_lookup.privacy_lookup_wizard_view_form
+msgid "Lookup"
+msgstr "Посмотреть"
+
+#: model_terms:ir.ui.view,arch_db:privacy_lookup.privacy_lookup_wizard_line_view_search
+msgid "Model"
+msgstr "Модель"
+
+#: model:ir.model.fields,field_description:privacy_lookup.field_privacy_lookup_wizard__name
+msgid "Name"
+msgstr "Имя"
+
+#: model_terms:ir.ui.view,arch_db:privacy_lookup.privacy_lookup_wizard_line_view_tree
+msgid "Open Record"
+msgstr "Открытая запись"
+
+#: model:ir.ui.menu,name:privacy_lookup.privacy_menu
+msgid "Privacy"
+msgstr "Конфиденциальность"
+
+#: model_terms:ir.ui.view,arch_db:privacy_lookup.privacy_log_view_form
+msgid "Privacy Log"
+msgstr "Журнал конфиденциальности"
+
+#: model_terms:ir.ui.view,arch_db:privacy_lookup.privacy_log_view_list
+msgid "Privacy Logs"
+msgstr "Журналы конфиденциальности"
+
+#. odoo-python
+#, python-format
+msgid "Privacy Lookup"
+msgstr "Поиск конфиденциальности"
+
+#: model:ir.actions.act_window,name:privacy_lookup.action_privacy_lookup_wizard_line
+msgid "Privacy Lookup Line"
+msgstr "Строка поиска конфиденциальных данных"
+
+#: model:ir.model,name:privacy_lookup.model_privacy_lookup_wizard
+msgid "Privacy Lookup Wizard"
+msgstr "Мастер поиска конфиденциальных данных"
+
+#: model:ir.model,name:privacy_lookup.model_privacy_lookup_wizard_line
+msgid "Privacy Lookup Wizard Line"
+msgstr "Линия мастера поиска конфиденциальных данных"
+
+#: model:ir.model.fields,field_description:privacy_lookup.field_privacy_lookup_wizard_line__resource_ref
+msgid "Record"
+msgstr "Запись"
+
+#: model:ir.model.fields,field_description:privacy_lookup.field_privacy_lookup_wizard__records_description
+msgid "Records Description"
+msgstr "Описание записей"
+
+#: model_terms:ir.ui.view,arch_db:privacy_lookup.privacy_lookup_wizard_view_form
+msgid "References"
+msgstr "Ссылки"
+
+#: model:ir.model.fields,field_description:privacy_lookup.field_privacy_lookup_wizard_line__res_model_id
+msgid "Related Document Model"
+msgstr "Модель сопутствующего документа"
+
+#: model:ir.model.fields,field_description:privacy_lookup.field_privacy_lookup_wizard_line__res_id
+msgid "Resource ID"
+msgstr "Номер ресурса"
+
+#: model:ir.model.fields,field_description:privacy_lookup.field_privacy_lookup_wizard_line__res_name
+msgid "Resource name"
+msgstr "Название ресурса"
+
+#: model_terms:ir.ui.view,arch_db:privacy_lookup.privacy_lookup_wizard_line_view_search
+msgid "Search References"
+msgstr "Поиск ссылок"
+
+#. odoo-python
+#, python-format
+msgid "The record is already unlinked."
+msgstr "Запись уже отсоединена."
+
+#. odoo-python
+#, python-format
+msgid "This email address is not valid (%s)"
+msgstr "Этот адрес электронной почты недействителен (%s)"
+
+#: model_terms:ir.ui.view,arch_db:privacy_lookup.privacy_lookup_wizard_line_view_tree
+msgid ""
+"This operation is irreversible. Do you wish to proceed to the record "
+"deletion?"
+msgstr "Эта операция необратима. Хотите ли вы перейти к удалению записи?"
+
+#. odoo-python
+#, python-format
+msgid "Unarchived"
+msgstr "Разархивированно"
+
+#: model:ir.model.fields,field_description:privacy_lookup.field_privacy_lookup_wizard_line__wizard_id
+msgid "Wizard"
+msgstr "Мастер"

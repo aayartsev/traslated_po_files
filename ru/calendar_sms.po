@@ -1,0 +1,78 @@
+#
+msgid ""
+msgstr ""
+"Language: ru_RU\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: model:ir.model,name:calendar_sms.model_calendar_event
+msgid "Calendar Event"
+msgstr "Календарное событие"
+
+#: model:sms.template,name:calendar_sms.sms_template_data_calendar_reminder
+msgid "Calendar Event: Reminder"
+msgstr "Событие календаря: Напоминание"
+
+#: model:ir.model,name:calendar_sms.model_calendar_alarm
+msgid "Event Alarm"
+msgstr "Сигнал тревоги"
+
+#: model:ir.model,name:calendar_sms.model_calendar_alarm_manager
+msgid "Event Alarm Manager"
+msgstr "Менеджер аварийных сигналов событий"
+
+#. odoo-python
+#, python-format
+msgid "Event reminder: %(name)s, %(time)s."
+msgstr "Напоминание о событиях: %(name)s, %(time)s."
+
+#: model:sms.template,body:calendar_sms.sms_template_data_calendar_reminder
+msgid ""
+"Event reminder: {{ object.name }}, {{ "
+"object.get_display_time_tz(object.partner_id.tz) }}"
+msgstr ""
+"Напоминание о событии: {{ object.name }}, {{ "
+"object.get_display_time_tz(object.partner_id.tz) }}"
+
+#. odoo-python
+#, python-format
+msgid "Notify Responsible"
+msgstr "Уведомить ответственного"
+
+#: model_terms:ir.ui.view,arch_db:calendar_sms.view_calendar_event_form_inherited
+msgid "SMS"
+msgstr "СМС"
+
+#: model:ir.model.fields,field_description:calendar_sms.field_calendar_alarm__sms_template_id
+msgid "SMS Template"
+msgstr "SMS шаблон"
+
+#: model:ir.model.fields.selection,name:calendar_sms.selection__calendar_alarm__alarm_type__sms
+msgid "SMS Text Message"
+msgstr "Текстовое сообщение SMS"
+
+#: model_terms:ir.ui.view,arch_db:calendar_sms.view_calendar_event_tree_inherited
+msgid "Send SMS"
+msgstr "Отправить SMS"
+
+#. odoo-python
+#, python-format
+msgid "Send SMS Text Message"
+msgstr "Отправить текстовое сообщение SMS"
+
+#: model_terms:ir.ui.view,arch_db:calendar_sms.view_calendar_event_form_inherited
+msgid "Send SMS to attendees"
+msgstr "Отправка SMS участникам"
+
+#: model:ir.model.fields,help:calendar_sms.field_calendar_alarm__sms_template_id
+msgid "Template used to render SMS reminder content."
+msgstr "Шаблон для генерации SMS напоминания."
+
+#. odoo-python
+#, python-format
+msgid "There are no attendees on these events"
+msgstr "На этих мероприятиях нет посетителей"
+
+#: model:ir.model.fields,field_description:calendar_sms.field_calendar_alarm__alarm_type
+msgid "Type"
+msgstr "Тип"

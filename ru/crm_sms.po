@@ -1,0 +1,14 @@
+#
+msgid ""
+msgstr ""
+"Language: ru_RU\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: model_terms:ir.ui.view,arch_db:crm_sms.crm_case_tree_view_oppor
+msgid "SMS"
+msgstr "СМС"
+
+#: model:ir.actions.act_window,name:crm_sms.crm_lead_act_window_sms_composer_single
+msgid "Send SMS Text Message"
+msgstr "Отправить текстовое сообщение SMS"

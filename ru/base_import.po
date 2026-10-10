@@ -1,0 +1,643 @@
+#
+msgid ""
+msgstr ""
+"Language: ru_RU\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. odoo-javascript
+msgid "%s at multiple rows"
+msgstr "%s в нескольких рядах"
+
+#. odoo-javascript
+msgid "%s records successfully imported"
+msgstr "%s записей успешно импортировано"
+
+#. odoo-javascript
+msgid ""
+"A single column was found in the file, this often means the file separator "
+"is incorrect."
+msgstr ""
+"В файле обнаружен один столбец, что часто означает неправильный разделитель "
+"файлов."
+
+#. odoo-javascript
+msgid "Additional Fields"
+msgstr "Дополнительные поля"
+
+#. odoo-javascript
+msgid "Advanced"
+msgstr "Дополнительно"
+
+#. odoo-javascript
+msgid "Allow matching with subfields"
+msgstr "Разрешить сопоставление с подполями"
+
+#. odoo-javascript
+msgid ""
+"An unknown issue occurred during import (possibly lost connection, data "
+"limit exceeded or memory limits exceeded). Please retry in case the issue is"
+" transient. If the issue still occurs, try to split the file rather than "
+"import it at once."
+msgstr ""
+"Во время импорта возникла неизвестная проблема (возможно, потеряно "
+"соединение, превышен лимит данных или памяти). Пожалуйста, повторите "
+"попытку, если проблема носит временный характер. Если проблема сохраняется, "
+"попробуйте разделить файл, а не импортировать его сразу."
+
+#: model:ir.model,name:base_import.model_base
+msgid "Base"
+msgstr "База"
+
+#: model:ir.model,name:base_import.model_base_import_import
+msgid "Base Import"
+msgstr "Импорт Базы"
+
+#: model:ir.model,name:base_import.model_base_import_mapping
+msgid "Base Import Mapping"
+msgstr "Сопоставление базового импорта"
+
+#. odoo-javascript
+msgid "Batch"
+msgstr "Порция"
+
+#. odoo-javascript
+msgid "Batch Import"
+msgstr "Пакетный импорт"
+
+#. odoo-javascript
+msgid "Batch limit"
+msgstr "Ограничение партии"
+
+#. odoo-javascript
+msgid "Cancel"
+msgstr "Отменить"
+
+#. odoo-javascript
+msgid "Click 'Resume' to proceed with the import, resuming at line %s."
+msgstr ""
+"Нажмите \"Возобновить\", чтобы продолжить импорт, возобновив его со строки "
+"%s."
+
+#. odoo-python
+#, python-format
+msgid "Column %s contains incorrect values (value: %s)"
+msgstr "Колонка %s содержит неверные значения (значение: %s)"
+
+#. odoo-python
+#, python-format
+msgid "Column %s contains incorrect values. Error in line %d: %s"
+msgstr "Столбец %s содержит неверные значения. Ошибка в строке %d: %s"
+
+#: model:ir.model.fields,field_description:base_import.field_base_import_mapping__column_name
+msgid "Column Name"
+msgstr "Название столбца"
+
+#. odoo-javascript
+msgid "Comma"
+msgstr "Запятая"
+
+#. odoo-javascript
+msgid "Comments"
+msgstr "Комментарии"
+
+#. odoo-python
+#, python-format
+msgid ""
+"Could not retrieve URL: %(url)s [%(field_name)s: L%(line_number)d]: "
+"%(error)s"
+msgstr ""
+"Не удалось получить URL: %(url)s [%(field_name)s: L%(line_number)d]: "
+"%(error)s"
+
+#. odoo-javascript
+msgid "Create new values"
+msgstr "Создание новых значений"
+
+#: model:ir.model.fields,field_description:base_import.field_base_import_mapping__create_uid
+msgid "Created by"
+msgstr "Создано"
+
+#: model:ir.model.fields,field_description:base_import.field_base_import_mapping__create_date
+msgid "Created on"
+msgstr "Создано"
+
+#. odoo-python
+#, python-format
+msgid "Database ID"
+msgstr "ID базы данных"
+
+#. odoo-javascript
+msgid "Date Format:"
+msgstr "Формат даты:"
+
+#. odoo-javascript
+msgid "Datetime Format:"
+msgstr "Формат даты и времени:"
+
+#. odoo-javascript
+msgid "Decimals Separator:"
+msgstr "Разделитель десятичных дробей:"
+
+#: model:ir.model.fields,field_description:base_import.field_base_import_mapping__display_name
+msgid "Display Name"
+msgstr "Отображаемое имя"
+
+#. odoo-javascript
+msgid "Dot"
+msgstr "Точка"
+
+#. odoo-javascript
+msgid "Download"
+msgstr "Скачать"
+
+#. odoo-javascript
+msgid "Encoding:"
+msgstr "Кодировка:"
+
+#. odoo-python
+#, python-format
+msgid "Error Parsing Date [%s:L%d]: %s"
+msgstr "Ошибка парсинга данных [ %s: L %d]: %s"
+
+#. odoo-javascript
+msgid "Error at row %s: \"%s\""
+msgstr "Ошибка в строке %s: \"%s\""
+
+#. odoo-python
+#, python-format
+msgid ""
+"Error while importing records: Text Delimiter should be a single character."
+msgstr ""
+"Ошибка при импорте записей: Разделитель текста должен состоять из одного "
+"символа."
+
+#. odoo-python
+#, python-format
+msgid ""
+"Error while importing records: all rows should be of the same size, but the "
+"title row has %d entries while the first row has %d. You may need to change "
+"the separator character."
+msgstr ""
+"Ошибка при импорте записей: все строки должны быть одинакового размера, но в"
+" заглавной строке содержится %d записей, а в первой - %d. Возможно, "
+"необходимо изменить символ-разделитель."
+
+#. odoo-javascript
+msgid "Estimated time left:"
+msgstr "Предполагаемое оставшееся время:"
+
+#. odoo-javascript
+msgid "Everything seems valid."
+msgstr "Вроде всё правильно."
+
+#. odoo-javascript
+msgid "Excel files are recommended as formatting is automatic."
+msgstr ""
+"Рекомендуется использовать файлы Excel, так как форматирование происходит "
+"автоматически."
+
+#. odoo-python
+#, python-format
+msgid "External ID"
+msgstr "Внешний ID"
+
+#: model:ir.model.fields,field_description:base_import.field_base_import_mapping__field_name
+msgid "Field Name"
+msgstr "Имя поля"
+
+#: model:ir.model.fields,field_description:base_import.field_base_import_import__file
+msgid "File"
+msgstr "Файл"
+
+#. odoo-javascript
+msgid "File Column"
+msgstr "Колонка файлов"
+
+#: model:ir.model.fields,field_description:base_import.field_base_import_import__file_name
+msgid "File Name"
+msgstr "Имя файла"
+
+#: model:ir.model.fields,field_description:base_import.field_base_import_import__file_type
+msgid "File Type"
+msgstr "Тип файла"
+
+#. odoo-python
+#, python-format
+msgid "File size exceeds configured maximum (%s bytes)"
+msgstr "Размер файла превышает заданный максимум (%s байт)"
+
+#: model:ir.model.fields,help:base_import.field_base_import_import__file
+msgid "File to check and/or import, raw binary (not base64)"
+msgstr ""
+"Файл для проверки и/или импорта, необработанный двоичный файл (не base64)"
+
+#. odoo-javascript
+msgid "Finalizing current batch before interrupting..."
+msgstr "Завершение работы над текущей партией перед прерыванием..."
+
+#. odoo-javascript
+msgid "For CSV files, you may need to select the correct separator."
+msgstr "Для файлов CSV может потребоваться выбрать правильный разделитель."
+
+#. odoo-javascript
+msgid "Formatting"
+msgstr "Форматирование"
+
+#. odoo-python
+#, python-format
+msgid ""
+"Found invalid image data, images should be imported as either URLs or "
+"base64-encoded data."
+msgstr ""
+"Найденные недействительные данные изображений, изображения должны быть "
+"импортированы либо как URL, либо как данные в базовой 64-кодировке."
+
+#. odoo-javascript
+msgid "Go to Import FAQ"
+msgstr "Перейти к FAQ по импорту"
+
+#. odoo-javascript
+msgid "Help"
+msgstr "Помощь"
+
+#. odoo-javascript
+msgid "Here is the start of the file we could not import:"
+msgstr "Вот начало файла, который мы не смогли импортировать:"
+
+#: model:ir.model.fields,field_description:base_import.field_base_import_mapping__id
+msgid "ID"
+msgstr "ID"
+
+#. odoo-javascript
+msgid ""
+"If the file contains\n"
+"                    the column names, Odoo can try auto-detecting the\n"
+"                    field corresponding to the column. This makes imports\n"
+"                    simpler especially when the file has many columns."
+msgstr ""
+"Если файл содержит\n"
+"                    имена столбцов, Odoo может попробовать автоматически определить\n"
+"                    поле, соответствующее столбцу. Это делает импорт\n"
+"                    особенно если файл содержит много столбцов."
+
+#. odoo-javascript
+msgid ""
+"If the model uses openchatter, history tracking will set up subscriptions "
+"and send notifications during the import, but lead to a slower import."
+msgstr ""
+"Если у данной модели есть комментарии, будут настроены подписки и отправлены"
+" уведомления, но это может сильно замедлить импорт."
+
+#. odoo-javascript
+msgid "Import"
+msgstr "Импорт"
+
+#. odoo-javascript
+msgid "Import FAQ"
+msgstr "Импортировать FAQ"
+
+#. odoo-javascript
+msgid "Import a File"
+msgstr "Импорт файла"
+
+#. odoo-python
+#, python-format
+msgid "Import file has no content or is corrupt"
+msgstr "Файл импорта не содержит содержимого или поврежден"
+
+#. odoo-javascript
+msgid "Import preview failed due to: \""
+msgstr "Предварительный просмотр импорта не удался из-за: \""
+
+#. odoo-javascript
+msgid "Import records"
+msgstr "Импорт записей"
+
+#. odoo-javascript
+msgid "Imported file"
+msgstr "Импортированный файл"
+
+#. odoo-javascript
+msgid "Importing"
+msgstr "Импорт"
+
+#. odoo-python
+#, python-format
+msgid ""
+"Invalid cell format at row %(row)s, column %(col)s: %(cell_value)s, with "
+"format: %(cell_format)s, as (%(format_type)s) formats are not supported."
+msgstr ""
+"Недопустимый формат ячейки в строке %(row)s, столбце %(col)s: "
+"%(cell_value)s, с форматом: %(cell_format)s, так как формат "
+"(%(format_type)s) не поддерживается."
+
+#. odoo-python
+#, python-format
+msgid "Invalid cell value at row %(row)s, column %(col)s: %(cell_value)s"
+msgstr ""
+"Недействительное значение ячейки в строке %(row)s, столбец %(col)s: "
+"%(cell_value)s"
+
+#: model:ir.model.fields,field_description:base_import.field_base_import_mapping__write_uid
+msgid "Last Updated by"
+msgstr "Последнее обновление"
+
+#: model:ir.model.fields,field_description:base_import.field_base_import_mapping__write_date
+msgid "Last Updated on"
+msgstr "Последнее обновление"
+
+#. odoo-javascript
+msgid "Load File"
+msgstr "Загрузка файла"
+
+#. odoo-javascript
+msgid "Loading file..."
+msgstr "Загрузка файла..."
+
+#. odoo-javascript
+msgid "Loading..."
+msgstr "Загрузка..."
+
+#: model:ir.model.fields,field_description:base_import.field_base_import_import__res_model
+msgid "Model"
+msgstr "Модель"
+
+#. odoo-javascript
+msgid "Multiple errors occurred"
+msgstr "Произошло несколько ошибок"
+
+#. odoo-javascript
+msgid "Need Help?"
+msgstr "Нужна помощь?"
+
+#. odoo-javascript
+msgid "No Separator"
+msgstr "Без разделителя"
+
+#. odoo-javascript
+msgid "No matching records found for the following name"
+msgstr "Не найдено ни одной подходящей записи для следующего имени"
+
+#. odoo-javascript
+msgid "Odoo Field"
+msgstr "Поле Odoo"
+
+#. odoo-javascript
+msgid "Prevent import"
+msgstr "Предотвращение импорта"
+
+#. odoo-javascript
+msgid "Preview"
+msgstr "Предпросмотр"
+
+#. odoo-javascript
+msgid "Progress bar"
+msgstr "Прогресс-бар"
+
+#. odoo-javascript
+msgid "Reimport"
+msgstr "Реимпорт"
+
+#. odoo-javascript
+msgid "Relation Fields"
+msgstr "Поля отношений"
+
+#: model:ir.model.fields,field_description:base_import.field_base_import_mapping__res_model
+msgid "Res Model"
+msgstr "Res Model"
+
+#. odoo-javascript
+msgid "Resume"
+msgstr "Продолжить"
+
+#. odoo-javascript
+msgid "Search a field..."
+msgstr "Поиск по полю..."
+
+#. odoo-javascript
+msgid "See possible values"
+msgstr "См. возможные значения"
+
+#. odoo-javascript
+msgid "Selected Sheet:"
+msgstr "Избранный лист:"
+
+#. odoo-javascript
+msgid "Semicolon"
+msgstr "Запятая"
+
+#. odoo-javascript
+msgid "Separator:"
+msgstr "Разделитель:"
+
+#. odoo-javascript
+msgid "Set to: %s"
+msgstr "Установить на: %s"
+
+#. odoo-javascript
+msgid "Set to: False"
+msgstr "Установить на: False"
+
+#. odoo-javascript
+msgid "Set to: True"
+msgstr "Установить на: True"
+
+#. odoo-javascript
+msgid "Set value as empty"
+msgstr "Установите значение как пустое"
+
+#. odoo-javascript
+msgid "Sheet:"
+msgstr "Лист:"
+
+#. odoo-javascript
+msgid "Skip record"
+msgstr "Пропустить запись"
+
+#. odoo-javascript
+msgid "Space"
+msgstr "Пробел"
+
+#. odoo-javascript
+msgid "Standard Fields"
+msgstr "Стандартные поля"
+
+#. odoo-javascript
+msgid "Start at line"
+msgstr "Начните с линии"
+
+#. odoo-javascript
+msgid "Stop Import"
+msgstr "Остановить импорт"
+
+#. odoo-javascript
+msgid "Suggested Fields"
+msgstr "Предлагаемые поля"
+
+#. odoo-javascript
+msgid "Tab"
+msgstr "Вкладка"
+
+#. odoo-javascript
+msgid "Test"
+msgstr "Тест"
+
+#. odoo-javascript
+msgid "Testing"
+msgstr "Тестирование"
+
+#. odoo-javascript
+msgid "Text Delimiter:"
+msgstr "Ограничитель текста:"
+
+#. odoo-javascript
+msgid "The file contains blocking errors (see below)"
+msgstr "Файл содержит ошибки блокировки (см. ниже)"
+
+#. odoo-javascript
+msgid "The file will be imported by batches"
+msgstr "Файл будет импортироваться партиями"
+
+#. odoo-javascript
+msgid "This column will be concatenated in field"
+msgstr "Этот столбец будет конкатенирован в поле"
+
+#. odoo-javascript
+msgid "Thousands Separator:"
+msgstr "Разделитель тысяч:"
+
+#. odoo-javascript
+msgid "To import multiple values, separate them by a comma."
+msgstr "Чтобы импортировать несколько значений, разделите их запятой."
+
+#. odoo-javascript
+msgid "To import, select a field..."
+msgstr "Для импорта выберите поле..."
+
+#. odoo-javascript
+msgid "Track history during import"
+msgstr "Отслеживание истории при импорте"
+
+#. odoo-python
+#, python-format
+msgid "Unable to load \"{extension}\" file: requires Python module \"{modname}\""
+msgstr ""
+"Невозможно загрузить файл \"{extension}\": требуется модуль Python "
+"\"{modname}\""
+
+#. odoo-python
+#, python-format
+msgid ""
+"Unsupported file format \"{}\", import only supports CSV, ODS, XLS and XLSX"
+msgstr ""
+"Неподдерживаемый формат файла \"{}\", импорт поддерживает только CSV, ODS, "
+"XLS и XLSX"
+
+#. odoo-javascript
+msgid "Untitled"
+msgstr "Без названия"
+
+#. odoo-javascript
+msgid "Upload File"
+msgstr "Загрузить файл"
+
+#. odoo-javascript
+msgid "Upload an Excel or CSV file to import"
+msgstr "Загрузите файл Excel или CSV для импорта"
+
+#. odoo-javascript
+msgid ""
+"Use HH for hours in a 24h system, use II in conjonction with 'p' for a 12h "
+"system. You can use a custom format in addition to the suggestions provided."
+" Leave empty to let Odoo guess the format (recommended)"
+msgstr ""
+"Используйте HH для обозначения часов в 24-часовой системе, II в сочетании с "
+"'p' - в 12-часовой системе. Вы можете использовать собственный формат в "
+"дополнение к предложенным. Оставьте пустым, чтобы Odoo сам догадался о "
+"формате (рекомендуется)"
+
+#. odoo-javascript
+msgid ""
+"Use YYYY to represent the year, MM for the month and DD for the day. Include"
+" separators such as a dot, forward slash or dash. You can use a custom "
+"format in addition to the suggestions provided. Leave empty to let Odoo "
+"guess the format (recommended)"
+msgstr ""
+"Используйте YYYY для обозначения года, MM для месяца и DD для дня. Включите "
+"разделители, такие как точка, прямая косая черта или тире. Вы можете "
+"использовать собственный формат в дополнение к предложенным. Оставить "
+"пустым, чтобы Odoo сам догадался о формате (рекомендуется)"
+
+#. odoo-javascript
+msgid "Use first row as header"
+msgstr "Используйте первый ряд в качестве заголовка"
+
+#: model:ir.model,name:base_import.model_res_users
+msgid "User"
+msgstr "Пользователь"
+
+#. odoo-javascript
+msgid ""
+"Warning: ignores the labels line, empty lines and lines composed only of "
+"empty cells"
+msgstr ""
+"Предупреждение: будут проигнорированы строки с метками, пустые строки и "
+"строки, содержащие только пустые ячейки"
+
+#. odoo-javascript
+msgid "When a value cannot be matched:"
+msgstr "Когда значение не может быть сопоставлено:"
+
+#. odoo-python
+#, python-format
+msgid ""
+"You can not import images via URL, check with your administrator or support "
+"for the reason."
+msgstr ""
+"Вы не можете импортировать изображения с помощью URL, обратитесь к "
+"администратору или в техподдержку."
+
+#. odoo-javascript
+msgid "You can test or reload your file before resuming the import."
+msgstr ""
+"Вы можете протестировать или перезагрузить файл перед возобновлением "
+"импорта."
+
+#. odoo-python
+#, python-format
+msgid "You must configure at least one field to import"
+msgstr "Вы должны настроить хотя бы одно поле для импорта"
+
+#. odoo-javascript
+msgid "at multiple rows"
+msgstr "в несколько рядов"
+
+#. odoo-javascript
+msgid "at row"
+msgstr "в ряд"
+
+#. odoo-javascript
+msgid "in field"
+msgstr "в поле"
+
+#. odoo-javascript
+msgid "minutes"
+msgstr "минут"
+
+#. odoo-javascript
+msgid "more"
+msgstr "больше"
+
+#. odoo-javascript
+msgid "out of"
+msgstr "из"
+
+#. odoo-javascript
+msgid "seconds"
+msgstr "секунд"
+
+#. odoo-python
+#, python-format
+msgid "unknown error code %s"
+msgstr "неизвестный код ошибки %s"

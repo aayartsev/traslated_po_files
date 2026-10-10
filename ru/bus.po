@@ -1,0 +1,129 @@
+#
+msgid ""
+msgstr ""
+"Language: ru_RU\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: model:ir.model.fields.selection,name:bus.selection__bus_presence__status__away
+msgid "Away"
+msgstr "Нет на месте"
+
+#: model:ir.model.fields,field_description:bus.field_bus_bus__channel
+msgid "Channel"
+msgstr "Канал"
+
+#: model:ir.model,name:bus.model_bus_bus
+msgid "Communication Bus"
+msgstr "Коммуникационная шина"
+
+#: model:ir.model,name:bus.model_res_partner
+msgid "Contact"
+msgstr "Контакты"
+
+#: model:ir.model.fields,field_description:bus.field_bus_bus__create_uid
+msgid "Created by"
+msgstr "Создано"
+
+#: model:ir.model.fields,field_description:bus.field_bus_bus__create_date
+msgid "Created on"
+msgstr "Создано"
+
+#: model:ir.model.fields,field_description:bus.field_bus_presence__display_name
+msgid "Display Name"
+msgstr "Отображаемое имя"
+
+#: model:ir.model,name:bus.model_ir_http
+msgid "HTTP Routing"
+msgstr "Маршрутизация HTTP"
+
+#: model:ir.model.fields,field_description:bus.field_bus_presence__id
+msgid "ID"
+msgstr "ID"
+
+#: model:ir.model.fields,field_description:bus.field_res_users__im_status
+msgid "IM Status"
+msgstr "Статус IM"
+
+#: model:ir.model.fields,field_description:bus.field_bus_presence__last_poll
+msgid "Last Poll"
+msgstr "Последний опрос"
+
+#: model:ir.model.fields,field_description:bus.field_bus_presence__last_presence
+msgid "Last Presence"
+msgstr "Последнее присутствие"
+
+#: model:ir.model.fields,field_description:bus.field_bus_bus__write_uid
+msgid "Last Updated by"
+msgstr "Последнее обновление"
+
+#: model:ir.model.fields,field_description:bus.field_bus_bus__write_date
+msgid "Last Updated on"
+msgstr "Последнее обновление"
+
+#: model:ir.model.fields,field_description:bus.field_bus_bus__message
+msgid "Message"
+msgstr "Сообщение"
+
+#: model:ir.model,name:bus.model_ir_model
+msgid "Models"
+msgstr "Модели"
+
+#: model:ir.model.fields.selection,name:bus.selection__bus_presence__status__offline
+msgid "Offline"
+msgstr "Не в сети"
+
+#: model:ir.model.fields.selection,name:bus.selection__bus_presence__status__online
+msgid "Online"
+msgstr "Онлайн"
+
+#: model:ir.model,name:bus.model_ir_qweb
+msgid "Qweb"
+msgstr "Qweb"
+
+#. odoo-javascript
+msgid "Refresh"
+msgstr "Обновить"
+
+#. odoo-javascript
+msgid ""
+"Save your work and refresh to get the latest updates and avoid potential "
+"issues."
+msgstr ""
+"Чтобы обновить данные и избежать ошибок, сохраните свою работу и обновите "
+"страницу."
+
+#. odoo-javascript
+msgid "The page appears to be out of date."
+msgstr "Похоже, что эта страница устарела."
+
+#. odoo-javascript
+msgid "The page is out of date"
+msgstr "Эта страница устарела"
+
+#: model:ir.model,name:bus.model_res_users
+msgid "User"
+msgstr "Пользователь"
+
+#: model:ir.model,name:bus.model_bus_presence
+msgid "User Presence"
+msgstr "Присутствие пользователя"
+
+#: model:ir.model.fields,field_description:bus.field_bus_presence__user_id
+msgid "Users"
+msgstr "Пользователи"
+
+#. odoo-python
+#, python-format
+msgid ""
+"Your password is the default (admin)! If this system is exposed to untrusted"
+" users it is important to change it immediately for security reasons. I will"
+" keep nagging you about it!"
+msgstr ""
+"Ваш пароль по умолчанию (admin)! Если эта система подвергается воздействию "
+"недоверенных пользователей, важно немедленно изменить настройки по "
+"соображениям безопасности. Я буду продолжать докучать Вам по этому поводу!"
+
+#: model:ir.model,name:bus.model_ir_websocket
+msgid "websocket message handling"
+msgstr "обработка сообщений в сокетах"

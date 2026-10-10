@@ -1,0 +1,218 @@
+#
+msgid ""
+msgstr ""
+"Language: ru_RU\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. odoo-javascript
+msgid "(change)"
+msgstr "(изменить)"
+
+#. odoo-javascript
+msgid "(create)"
+msgstr "(создать)"
+
+#. odoo-javascript
+msgid "Activate the translate mode"
+msgstr "Активируйте режим переводчика"
+
+#. odoo-javascript
+msgid "All users"
+msgstr "Все пользователи"
+
+#: model_terms:ir.ui.view,arch_db:translate_from_ui.translate_from_ui_wizard_form
+msgid "Apply"
+msgstr "Применить"
+
+#: model:ir.model,name:translate_from_ui.model_base
+msgid "Base"
+msgstr "База"
+
+#: model_terms:ir.ui.view,arch_db:translate_from_ui.translate_from_ui_wizard_form
+msgid "Cancel"
+msgstr "Отменить"
+
+#. odoo-javascript
+msgid "Choose a translate command..."
+msgstr "Выберите команду перевода..."
+
+#. odoo-javascript
+msgid "Close"
+msgstr "Закрыть"
+
+#. odoo-javascript
+msgid "Condition:"
+msgstr "Состояние"
+
+#: model:ir.model,name:translate_from_ui.model_res_config_settings
+msgid "Config Settings"
+msgstr "Параметры конфигурации"
+
+#: model:ir.model.fields,field_description:translate_from_ui.field_translate_from_ui_wizard__create_uid
+msgid "Created by"
+msgstr "Создал"
+
+#: model:ir.model.fields,field_description:translate_from_ui.field_translate_from_ui_wizard__create_date
+msgid "Created on"
+msgstr "Создано"
+
+#. odoo-javascript
+msgid "Creation Date:"
+msgstr "Дата создания"
+
+#. odoo-javascript
+msgid "Creation User:"
+msgstr "Кто создал:"
+
+#. odoo-javascript
+msgid "Deactivate the translate mode"
+msgstr "Деактивируйте режим переводчика"
+
+#. odoo-javascript
+msgid "Default:"
+msgstr "По-умолчанию:"
+
+#: model:ir.model.fields,field_description:translate_from_ui.field_translate_from_ui_wizard__display_name
+msgid "Display Name"
+msgstr "Оторажаемое имя"
+
+#: model:ir.model.fields,field_description:translate_from_ui.field_res_config_settings__enable_po_files_translation
+msgid "Enable PO files translation"
+msgstr "Включить перевод из PO-файлов"
+
+#: model_terms:ir.ui.view,arch_db:translate_from_ui.res_config_settings_view_form_budget
+msgid "Enable update translation terms from po files"
+msgstr "Включить обновление терминов перевода из po-файлов"
+
+#: model:ir.model,name:translate_from_ui.model_ir_model_fields
+msgid "Fields"
+msgstr "Поля"
+
+#. odoo-javascript
+msgid "Get View"
+msgstr "Получить представление"
+
+#: model:ir.model,name:translate_from_ui.model_ir_http
+msgid "HTTP Routing"
+msgstr "Маршрутизация HTTP"
+
+#. odoo-javascript
+msgid "Help"
+msgstr "Атрибут поля Help"
+
+#. odoo-javascript
+msgid "ID:"
+msgstr ""
+
+#: model:ir.model.fields,field_description:translate_from_ui.field_translate_from_ui_wizard__modules
+msgid "In Apps"
+msgstr "В приложениях"
+
+#: model:ir.model.fields,field_description:translate_from_ui.field_translate_from_ui_wizard__language_id
+msgid "Language"
+msgstr "Язык"
+
+#: model:ir.model.fields,field_description:translate_from_ui.field_translate_from_ui_wizard__write_uid
+msgid "Last Updated by"
+msgstr "Последний раз обновил"
+
+#: model:ir.model.fields,field_description:translate_from_ui.field_translate_from_ui_wizard__write_date
+msgid "Last Updated on"
+msgstr "Последний раз обновлялось"
+
+#. odoo-javascript
+msgid "Latest Modification Date:"
+msgstr "Дата последнего изменения"
+
+#. odoo-javascript
+msgid "Latest Modification by:"
+msgstr "Кто последний изменил:"
+
+#. odoo-javascript
+msgid "Leave the Translate Tools"
+msgstr "Выйти из режима переводчика"
+
+#: model:ir.model.fields,help:translate_from_ui.field_translate_from_ui_wizard__modules
+msgid "List of modules in which the translation term is defined"
+msgstr "Список модулей в которых определен данный термин"
+
+#: model:ir.model.fields,help:translate_from_ui.field_translate_from_ui_wizard__metadata
+msgid "Metadata"
+msgstr "Метаданные"
+
+#: model:ir.model,name:translate_from_ui.model_ir_module_module
+msgid "Module"
+msgstr "Модуль"
+
+#. odoo-javascript
+msgid "No Update:"
+msgstr "Нельзя обновить:"
+
+#. odoo-javascript
+msgid "No translate command found"
+msgstr "Не найдено никакой команды для режима переводчика"
+
+#. odoo-javascript
+msgid "Only you"
+msgstr "Только вы"
+
+#. odoo-javascript
+msgid "Open translate tools"
+msgstr "Открыть инструменты переводчика"
+
+#. odoo-javascript
+msgid "Save default"
+msgstr "Сохранить параметры по умолчанию"
+
+#. odoo-javascript
+msgid "String"
+msgstr "Строка"
+
+#: model:ir.model.fields,field_description:translate_from_ui.field_translate_from_ui_wizard__term_value
+msgid "Term"
+msgstr "Термин"
+
+#: model:ir.model.fields,help:translate_from_ui.field_translate_from_ui_wizard__term_value
+msgid "Term value to translate"
+msgstr "Значение терминя для перевода"
+
+#: model:ir.model.fields,help:translate_from_ui.field_translate_from_ui_wizard__language_id
+msgid "The language for which the translation will be applied"
+msgstr "Язык для которго будет прменяться перевод"
+
+#. odoo-javascript
+msgid "Translate SearchView"
+msgstr "Перевести SearchView"
+
+#. odoo-javascript
+msgid "Translate View: "
+msgstr "Перевести представление:"
+
+#. odoo-javascript
+msgid "Translate tools..."
+msgstr "Инструменты переводчика..."
+
+#. odoo-javascript
+msgid "Translate: %s"
+msgstr "Перевести: %s"
+
+#: model_terms:ir.ui.view,arch_db:translate_from_ui.res_config_settings_view_form_budget
+msgid "Translation"
+msgstr "Перевод"
+
+#: model:ir.model,name:translate_from_ui.model_translate_from_ui_wizard
+msgid "Translation From UI Wizard"
+msgstr "Мастер перевода из UI"
+
+#: model:ir.model.fields,help:translate_from_ui.field_translate_from_ui_wizard__translation_value
+msgid "Translation for term value"
+msgstr "Перевод для значения термина"
+
+#. odoo-javascript
+msgid "Translator Tools"
+msgstr "Инструменты переводчика"
+
+#. odoo-javascript
+msgid "XML ID:"
+msgstr ""

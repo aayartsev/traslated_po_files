@@ -1,0 +1,143 @@
+#
+msgid ""
+msgstr ""
+"Language: ru_RU\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: model:mail.template,body_html:auth_totp_mail.mail_template_totp_invite
+msgid ""
+"<div style=\"margin: 0px; padding: 0px; font-size: 13px;\">\n"
+"    <p style=\"margin: 0px; padding: 0px; font-size: 13px;\">\n"
+"        Dear <t t-out=\"object.partner_id.name or ''\"></t><br><br>\n"
+"        <t t-out=\"user.name  or ''\"></t> requested you activate two-factor authentication to protect your account.<br><br>\n"
+"        Two-factor Authentication (\"2FA\") is a system of double authentication.\n"
+"        The first one is done with your password and the second one with a code you get from a dedicated mobile app.\n"
+"        Popular ones include Authy, Google Authenticator or the Microsoft Authenticator.\n"
+"\n"
+"        <p style=\"margin: 16px 0px 16px 0px; text-align: center;\">\n"
+"            <a t-att-href=\"object.get_totp_invite_url()\" style=\"background-color:#875A7B; padding: 8px 16px 8px 16px; text-decoration: none; color: #fff; border-radius: 5px;\">\n"
+"                Activate my two-factor Authentication\n"
+"            </a>\n"
+"        </p>\n"
+"    </p>\n"
+"</div>\n"
+"        "
+msgstr ""
+"<div style=\"margin: 0px; padding: 0px; font-size: 13px;\">\n"
+"    <p style=\"margin: 0px; padding: 0px; font-size: 13px;\">\n"
+"        Уважаемый <t t-out=\"object.partner_id.name or ''\"></t><br><br>\n"
+"        <t t-out=\"user.name  or ''\"></t> просит вас активировать двухфакторную аутентификацию для защиты вашей учетной записи.<br><br>\n"
+"        Двухфакторная аутентификация (\"2FA\") - это система двойной аутентификации.\n"
+"        Первая осуществляется с помощью вашего пароля, а вторая - с помощью кода, который вы получаете из специального мобильного приложения.\n"
+"        Среди популярных - Authy, Google Authenticator или Microsoft Authenticator.\n"
+"\n"
+"        <p style=\"margin: 16px 0px 16px 0px; text-align: center;\">\n"
+"            <a t-att-href=\"object.get_totp_invite_url()\" style=\"background-color:#875A7B; padding: 8px 16px 8px 16px; text-decoration: none; color: #fff; border-radius: 5px;\">\n"
+"                Активируйте мою двухфакторную аутентификацию\n"
+"            </a>\n"
+"        </p>\n"
+"    </p>\n"
+"</div>\n"
+"        "
+
+#: model_terms:ir.ui.view,arch_db:auth_totp_mail.account_security_setting_update
+msgid "<span>Consider</span>"
+msgstr "<span>Рассмотрите</span>"
+
+#. odoo-python
+#, python-format
+msgid "A trusted device has just been added to your account: %(device_name)s"
+msgstr ""
+"В вашу учетную запись только что было добавлено доверенное устройство: "
+"%(device_name)s"
+
+#. odoo-python
+#, python-format
+msgid ""
+"A trusted device has just been removed from your account: %(device_names)s"
+msgstr ""
+"Только что с вашей учетной записи было удалено доверенное устройство: "
+"%(device_names)s"
+
+#. odoo-python
+#, python-format
+msgid "Account Security"
+msgstr "Безопасность учетной записи"
+
+#: model:ir.model,name:auth_totp_mail.model_auth_totp_device
+msgid "Authentication Device"
+msgstr "Устройство аутентификации"
+
+#: model:mail.template,subject:auth_totp_mail.mail_template_totp_invite
+msgid "Invitation to activate two-factor authentication on your Odoo account"
+msgstr ""
+"Приглашение активировать двухфакторную аутентификацию на вашей учетной "
+"записи Odoo"
+
+#. odoo-python
+#, python-format
+msgid ""
+"Invitation to use two-factor authentication sent for the following user(s): "
+"%s"
+msgstr ""
+"Приглашение использовать двухфакторную аутентификацию отправлено для "
+"следующих пользователей: %s"
+
+#: model_terms:ir.ui.view,arch_db:auth_totp_mail.view_users_form
+msgid "Invite to use 2FA"
+msgstr "Приглашение к использованию 2FA"
+
+#: model:ir.actions.server,name:auth_totp_mail.action_invite_totp
+msgid "Invite to use two-factor authentication"
+msgstr "Предложите использовать двухфакторную аутентификацию"
+
+#: model_terms:ir.ui.view,arch_db:auth_totp_mail.res_users_view_form
+msgid "Name"
+msgstr "Имя"
+
+#: model:ir.actions.server,name:auth_totp_mail.action_activate_two_factor_authentication
+msgid "Open two-factor authentication configuration"
+msgstr "Открытая конфигурация двухфакторной аутентификации"
+
+#. odoo-python
+#, python-format
+msgid "Security Update: 2FA Activated"
+msgstr "Обновление системы безопасности: 2FA активирована"
+
+#. odoo-python
+#, python-format
+msgid "Security Update: 2FA Deactivated"
+msgstr "Обновление системы безопасности: 2FA деактивирована"
+
+#. odoo-python
+#, python-format
+msgid "Security Update: Device Added"
+msgstr "Обновление системы безопасности: добавлено устройство"
+
+#. odoo-python
+#, python-format
+msgid "Security Update: Device Removed"
+msgstr "Обновление системы безопасности: устройство удалено"
+
+#: model:mail.template,name:auth_totp_mail.mail_template_totp_invite
+msgid "Settings: 2Fa Invitation"
+msgstr "Параметры: 2Fa Приглашение"
+
+#. odoo-python
+#, python-format
+msgid "Two-factor authentication has been activated on your account"
+msgstr "На вашей учетной записи активирована двухфакторная аутентификация"
+
+#. odoo-python
+#, python-format
+msgid "Two-factor authentication has been deactivated on your account"
+msgstr "Двухфакторная аутентификация была отключена на вашей учетной записи"
+
+#: model:ir.model,name:auth_totp_mail.model_res_users
+msgid "User"
+msgstr "Пользователь"
+
+#: model_terms:ir.ui.view,arch_db:auth_totp_mail.account_security_setting_update
+msgid "activating Two-factor Authentication"
+msgstr "активация двухфакторной аутентификации"

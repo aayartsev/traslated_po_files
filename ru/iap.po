@@ -1,0 +1,181 @@
+#
+msgid ""
+msgstr ""
+"Language: ru_RU\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: model:ir.model.fields,field_description:iap.field_iap_account__account_info_id
+msgid "Account Info"
+msgstr "Информация Учетной Записи"
+
+#: model_terms:ir.ui.view,arch_db:iap.iap_account_view_form
+msgid "Account Information"
+msgstr "Информация об учетной записи"
+
+#: model:ir.model.fields,field_description:iap.field_iap_account_info__account_token
+msgid "Account Token"
+msgstr "Токен учетной записи"
+
+#: model:ir.model.fields,field_description:iap.field_iap_account_info__account_uuid_hashed
+msgid "Account UUID"
+msgstr "UUID учетной записи"
+
+#: model:ir.model.fields,help:iap.field_iap_account__account_token
+msgid ""
+"Account token is your authentication key for this service. Do not share it."
+msgstr ""
+"Токен учетной записи - это ваш ключ аутентификации для этой службы. Не "
+"сообщайте его."
+
+#: model:ir.model.fields,field_description:iap.field_iap_account__account_info_ids
+msgid "Accounts from IAP"
+msgstr "Счета от IAP"
+
+#: model:ir.model.fields,field_description:iap.field_iap_account_info__balance
+msgid "Balance"
+msgstr "Баланс"
+
+#: model_terms:ir.ui.view,arch_db:iap.iap_account_view_form
+msgid "Buy Credit"
+msgstr "Купить кредит"
+
+#. odoo-javascript
+msgid "Buy credits"
+msgstr "Купить услуги"
+
+#. odoo-javascript
+msgid "Cancel"
+msgstr "Отменить"
+
+#: model:ir.model.fields,field_description:iap.field_iap_account__company_ids
+msgid "Company"
+msgstr "Компания"
+
+#: model:ir.model.fields,field_description:iap.field_iap_account_info__create_uid
+msgid "Created by"
+msgstr "Создано"
+
+#: model:ir.model.fields,field_description:iap.field_iap_account_info__create_date
+msgid "Created on"
+msgstr "Создано"
+
+#: model:ir.model.fields,field_description:iap.field_iap_account_info__description
+msgid "Description"
+msgstr "Описание"
+
+#: model:ir.model.fields,field_description:iap.field_iap_account_info__display_name
+msgid "Display Name"
+msgstr "Отображаемое имя"
+
+#: model_terms:ir.ui.view,arch_db:iap.iap_account_view_form
+msgid "Hide Token"
+msgstr "Скрыть токен"
+
+#: model:ir.ui.menu,name:iap.iap_root_menu
+msgid "IAP"
+msgstr "IAP"
+
+#: model_terms:ir.ui.view,arch_db:iap.iap_account_view_form
+msgid "IAP Account"
+msgstr "IAP учетная запись"
+
+#: model:ir.model,name:iap.model_iap_account_info
+msgid "IAP Account Info"
+msgstr "Информация об учетной записи IAP"
+
+#: model_terms:ir.ui.view,arch_db:iap.iap_account_view_tree
+msgid "IAP Accounts"
+msgstr "IAP учетные записи"
+
+#: model:ir.model,name:iap.model_iap_enrich_api
+msgid "IAP Lead Enrichment API"
+msgstr "IAP Lead Enrichment API"
+
+#: model:ir.model.fields,field_description:iap.field_iap_account_info__id
+msgid "ID"
+msgstr "ID"
+
+#. odoo-javascript
+msgid "Insufficient credit to perform this service."
+msgstr "Недостаточно средств для проведения операции."
+
+#: model:ir.model.fields,field_description:iap.field_iap_account_info__write_uid
+msgid "Last Updated by"
+msgstr "Последнее обновление"
+
+#: model:ir.model.fields,field_description:iap.field_iap_account_info__write_date
+msgid "Last Updated on"
+msgstr "Последнее обновление"
+
+#: model:ir.model.fields,field_description:iap.field_iap_account__name
+msgid "Name"
+msgstr "Имя"
+
+#: model_terms:ir.ui.view,arch_db:iap.res_config_settings_view_form
+msgid "Odoo IAP"
+msgstr "Odoo IAP"
+
+#: model:ir.model.fields,field_description:iap.field_iap_account_info__service_name
+msgid "Related Service"
+msgstr "Сопутствующие услуги"
+
+#: model:ir.model.fields,field_description:iap.field_iap_account__service_name
+msgid "Service Name"
+msgstr "Название услуги"
+
+#: model_terms:ir.ui.view,arch_db:iap.iap_account_view_form
+msgid "Show Token"
+msgstr "Показать токен"
+
+#. odoo-javascript
+msgid "Start a Trial at Odoo"
+msgstr "Начните пробное использование Odoo"
+
+#. odoo-python
+#, python-format
+msgid ""
+"The request to the service timed out. Please contact the author of the app. "
+"The URL it tried to contact was %s"
+msgstr ""
+"Запрос к сервису завершился по тайм-ауту. Пожалуйста, обратитесь к "
+"разработчику приложения. URL, который пытались вызвать: %s"
+
+#. odoo-python
+#, python-format
+msgid ""
+"The url that this service requested returned an error. Please contact the "
+"author of the app. The url it tried to contact was %s"
+msgstr ""
+"Url, запрошенный этой службой, вернул ошибку. Пожалуйста, свяжитесь с "
+"автором приложения. Url, с которым он пытался связаться, был %s"
+
+#: model:ir.model.fields,field_description:iap.field_iap_account_info__warning_threshold
+msgid "Threshold"
+msgstr "Порог"
+
+#: model:ir.model.fields,field_description:iap.field_iap_account_info__unit_name
+msgid "Unit Name"
+msgstr "Название единицы"
+
+#. odoo-javascript
+msgid "View My Services"
+msgstr "Посмотреть мои услуги"
+
+#: model_terms:ir.ui.view,arch_db:iap.res_config_settings_view_form
+msgid "View your IAP Services and recharge your credits"
+msgstr "Просматривайте свои услуги IAP и пополняйте кредиты"
+
+#: model:ir.model.fields,field_description:iap.field_iap_account_info__warn_me
+msgid "Warn me"
+msgstr "Предупредите меня"
+
+#: model:ir.model.fields,field_description:iap.field_iap_account_info__warning_email
+msgid "Warning Email"
+msgstr "Предупреждающее электронное письмо"
+
+#: model:ir.model.fields,help:iap.field_iap_account__warn_me
+msgid "We will send you an email when your balance gets below that threshold"
+msgstr ""
+"Мы отправим вам электронное письмо, когда ваш баланс опустится ниже этого "
+"порога"

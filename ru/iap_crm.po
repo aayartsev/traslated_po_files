@@ -1,0 +1,14 @@
+#
+msgid ""
+msgstr ""
+"Language: ru_RU\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: model:ir.model,name:iap_crm.model_crm_lead
+msgid "Lead/Opportunity"
+msgstr "Потенциальные сделки"
+
+#: model:ir.model.fields,field_description:iap_crm.field_crm_lead__reveal_id
+msgid "Reveal ID"
+msgstr "Раскрыть идентификатор"

@@ -1,0 +1,109 @@
+#
+msgid ""
+msgstr ""
+"Language: ru_RU\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. odoo-javascript
+msgid ""
+"<strong><b>Good job!</b> You went through all steps of this tour.</strong>"
+msgstr ""
+"<strong><b>Отличная работа!</b> Вы прошли все этапы этого тура.</strong>"
+
+#. odoo-javascript
+msgid "Click on the <i>Home icon</i> to navigate across apps."
+msgstr ""
+"Нажмите на <i>значок \"Домой\"</i>, чтобы перемещаться между приложениями."
+
+#. odoo-javascript
+msgid "Close"
+msgstr "Закрыть"
+
+#: model:ir.model.fields,field_description:web_tour.field_web_tour_tour__user_id
+msgid "Consumed by"
+msgstr "Потребляется"
+
+#. odoo-javascript
+msgid "Disable Tours"
+msgstr "Отключить туры"
+
+#: model:ir.model.fields,field_description:web_tour.field_web_tour_tour__display_name
+msgid "Display Name"
+msgstr "Отображаемое имя"
+
+#: model:ir.model,name:web_tour.model_ir_http
+msgid "HTTP Routing"
+msgstr "Маршрутизация HTTP"
+
+#: model:ir.model.fields,field_description:web_tour.field_web_tour_tour__id
+msgid "ID"
+msgstr "ID"
+
+#: model_terms:ir.ui.view,arch_db:web_tour.edit_tour_list
+msgid "Menu"
+msgstr "Меню"
+
+#. odoo-javascript
+msgid "Name"
+msgstr "Имя"
+
+#. odoo-javascript
+msgid "Onboarding tours"
+msgstr "Выездные туры"
+
+#. odoo-javascript
+msgid "Open bugger menu."
+msgstr "Откройте меню бугер."
+
+#. odoo-javascript
+msgid "Path"
+msgstr "Путь"
+
+#. odoo-javascript
+msgid "Scroll down to reach the next step."
+msgstr "Прокрутите вниз, чтобы перейти к следующему шагу."
+
+#. odoo-javascript
+msgid "Scroll up to reach the next step."
+msgstr "Прокрутите вверх, чтобы перейти к следующему шагу."
+
+#. odoo-javascript
+msgid "Sequence"
+msgstr "Последовательность"
+
+#. odoo-javascript
+msgid "Start"
+msgstr "Начало"
+
+#. odoo-javascript
+msgid "Start Tour"
+msgstr "Начать презентацию"
+
+#. odoo-javascript
+msgid "Start tour"
+msgstr "Начало экскурсии"
+
+#. odoo-javascript
+msgid "Test"
+msgstr "Тест"
+
+#. odoo-javascript
+msgid "Test tour"
+msgstr "Тестовый тур"
+
+#. odoo-javascript
+msgid "Testing tours"
+msgstr "Тестовые туры"
+
+#: model_terms:ir.ui.view,arch_db:web_tour.edit_tour_search
+msgid "Tip"
+msgstr "Подсказки"
+
+#: model:ir.model.fields,field_description:web_tour.field_web_tour_tour__name
+msgid "Tour name"
+msgstr "Название тура"
+
+#. odoo-javascript
+msgid "Tours"
+msgstr "Туры"

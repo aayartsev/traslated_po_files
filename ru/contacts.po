@@ -1,0 +1,63 @@
+#
+msgid ""
+msgstr ""
+"Language: ru_RU\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: model:ir.ui.menu,name:contacts.menu_config_bank_accounts
+msgid "Bank Accounts"
+msgstr "Банковские Счета"
+
+#: model:ir.ui.menu,name:contacts.menu_action_res_bank_form
+msgid "Banks"
+msgstr "Банки"
+
+#: model:ir.ui.menu,name:contacts.res_partner_menu_config
+msgid "Configuration"
+msgstr "Конфигурация"
+
+#: model:ir.ui.menu,name:contacts.menu_partner_category_form
+msgid "Contact Tags"
+msgstr "Теги контакта"
+
+#: model:ir.ui.menu,name:contacts.menu_partner_title_contact
+msgid "Contact Titles"
+msgstr "Названия контактов"
+
+#: model:ir.ui.menu,name:contacts.res_partner_menu_contacts
+msgid "Contacts"
+msgstr "Контакты"
+
+#: model:ir.ui.menu,name:contacts.menu_country_partner
+msgid "Countries"
+msgstr "Страны"
+
+#: model:ir.ui.menu,name:contacts.menu_country_group
+msgid "Country Group"
+msgstr "Группы стран"
+
+#: model_terms:ir.actions.act_window,help:contacts.action_contacts
+msgid "Create a Contact in your address book"
+msgstr "Создать контакт в адресной книге"
+
+#: model:ir.ui.menu,name:contacts.menu_country_state_partner
+msgid "Fed. States"
+msgstr "Регионы"
+
+#: model:ir.ui.menu,name:contacts.res_partner_industry_menu
+msgid "Industries"
+msgstr "Отрасли"
+
+#: model:ir.ui.menu,name:contacts.menu_localisation
+msgid "Localization"
+msgstr "Локализация"
+
+#: model_terms:ir.actions.act_window,help:contacts.action_contacts
+msgid "Odoo helps you track all activities related to your contacts."
+msgstr ""
+"Odoo помогает отслеживать все действия, связанные с вашими контактами."
+
+#: model:ir.model,name:contacts.model_res_users
+msgid "User"
+msgstr "Пользователь"
